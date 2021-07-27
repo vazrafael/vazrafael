@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @vazrafael
+- 👀 I’m interested in WebDev | Data Analytics | Data Science
+- 🌱 I know *advanced* Excel and PowerPoint, *independent* Tableau, Power BI, SQL, and Git, and *basic* Python, HTML, CSS, and JavaScript
+- 💞️ I’m looking for junior colaboration opportunities in my areas of interest
+- 📫 How to reach me: https://rvrafaelvaz.wixsite.com/portfolio?lang=en
